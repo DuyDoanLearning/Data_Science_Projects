@@ -7,3 +7,4 @@ This repository is where I put my Data Science projects while doing my MSc Finte
 * Performed Augmented Dickey-Fuller test for stationary and Granger's two-step methods to detect long-run relationships between variables. Performed Granger's causality test to select meaningful features further.
 * Feed into ML models for regression task to evaluate how models perform on long-run relationship features in predicting prices through robust tests.
 * Feed into LSTM models (univariate and multivariate) to evaluate DL models on exploring relevant features.
+1[Result of predictions](https://github.com/DuyDoanLearning/stock_market_prediction_MachineLearning_and_LSTM/blob/Stock-Prediction/Images/results_img_lag%20only_closer.png)
