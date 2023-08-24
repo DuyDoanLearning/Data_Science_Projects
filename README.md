@@ -1,4 +1,4 @@
-# Data_Science_Projects
+# Data Science Project
 This repository is where I put my Data Science projects while doing my MSc Fintech at the University of Nottingham.
 
 ## [1. Machine Learning and Deep Learning: Explore the cointegration between global stock indices and commodities prices (MSc Dissertation Project)](https://github.com/DuyDoanLearning/stock_market_prediction_MachineLearning_and_LSTM.git)
