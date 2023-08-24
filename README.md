@@ -10,3 +10,4 @@ Welcome to my Data Science portfolio. I am Duy Doan, a postgraduate MSc in Finan
 
 [./assets/img.png](https://github.com/DuyDoanLearning/Data_Science_Projects/blob/main/results_img_technical_2.png)
 
+![image](./assets/https://github.com/DuyDoanLearning/Data_Science_Projects/blob/main/results_img_technical_2.png)
