@@ -8,4 +8,4 @@ Welcome to my Data Science portfolio. I am Duy Doan, a postgraduate MSc in Finan
 * Feed into ML models for regression task to evaluate how models perform on long-run relationship features in predicting prices through robust tests.
 * Feed into LSTM models (univariate and multivariate) to evaluate DL models on exploring relevant features.
 
-![](https://github.com/DuyDoanLearning/stock_market_prediction_MachineLearning_and_LSTM/blob/Stock-Prediction/Images/results_img_technical_2.png)
+![](https://github.com/DuyDoanLearning/Data_Science_Projects/blob/main/results_img_technical_2.png)
