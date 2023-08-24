@@ -1,5 +1,5 @@
 # Data Science Project
-This repository is where I put my Data Science projects while doing my MSc Fintech at the University of Nottingham.
+Welcome to my Data Science portfolio. I am Duy Doan, a postgraduate MSc in Financial Technology at the University of Nottingham, United Kingdom. This portfolio contains projects I have done while studying for my MSc degree. Please take a look, and if you want to connect with me, please reach me via my email at doanduy2705@gmail.com or my LinkedIn profile: https://www.linkedin.com/in/duyd/.
 
 ## [1. Machine Learning and Deep Learning: Explore the cointegration between global stock indices and commodities prices (MSc Dissertation Project)](https://github.com/DuyDoanLearning/stock_market_prediction_MachineLearning_and_LSTM.git)
 * Downloaded data on Bloomberg from 2005 to 30/06/2023 for US & China stock indices, precious metal prices, exchange rates, and VN-Index (stock index of Vietnam) as the target variable.
