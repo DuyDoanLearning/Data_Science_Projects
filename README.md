@@ -12,5 +12,7 @@ Welcome to my Data Science portfolio. I am Duy Doan, a postgraduate MSc in Finan
 
 ## [2. CARAVAN Insurance Challenge - Kaggle Challenge](https://github.com/DuyDoanLearning/Caravan-Insurance-Challenge)
 A Kaggle competition to build a model that best identifies potential customers who will likely purchase the CARAVAN insurance. The challenge of this problem is that the data was recorded manually with a lot of redundancy, and the relationship with the target variable is uncertain. The target label is also imbalanced (94% of label 0 and 6% of label 1).
+
 In this case study, I prioritized recall scores to capture potential customers. The final model, Random Forests, achieved 82% overall accuracy with 80% recall. 
+
 The full information about the challenge is presented here: https://www.kaggle.com/datasets/uciml/caravan-insurance-challenge.
